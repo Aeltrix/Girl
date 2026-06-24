@@ -1,7 +1,7 @@
 # Girl
 This Girl tool, which I designed, allows you to pinpoint the target's location with high accuracy using GPS tracking. I strongly advise against using this tool on innocent people. I am not responsible for any misuse you may make. I repeat, I am not responsible.
 
-# Installation commands in Termux / Kali Linux / Parrot
+# Installation commands in Termux / Kali / Parrot
 
 apt update
 
