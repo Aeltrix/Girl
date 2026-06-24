@@ -3,21 +3,41 @@ This Girl tool, which I designed, allows you to pinpoint the target's location w
 
 # Installation commands in Termux / Kali / Parrot
 
-1 : apt update
+```bash
+apt update
+```
 
-2 : apt upgrade
+```bash
+apt upgrade
+```
 
-3 : pip install flask
+```bash
+pip install flask
+```
 
-4 : git clone https://github.com/Aeltrix/Girl.git
+```bash
+git clone https://github.com/Aeltrix/Girl.git
+```
 
-5: wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm64 -O cloudflared
+```bash
+wget https://github.com/cloudflare/cloudflared/releases/latest/download/cloudflared-linux-arm64 -O cloudflared
+```
+
+```bash
 chmod +x cloudflared
+```
+
+```bash
 mv cloudflared $PREFIX/bin/
+```
 
-6: cd Girl
+```bash
+cd Girl
+```
 
-7: python Girl.py
+```bash
+python Girl.py
+```
 
 # Important note
 This tool is for personal and educational use only. Commercial use is strictly prohibited. Please do not misuse this tool or use it against systems, networks, or individuals without permission. The purpose of this project is for personal learning and research only. Developer: Aeltrix
