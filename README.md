@@ -1,7 +1,9 @@
 # Girl
 This Girl tool, which I designed, allows you to pinpoint the target's location with high accuracy using GPS tracking. I strongly advise against using this tool on innocent people. I am not responsible for any misuse you may make. I repeat, I am not responsible.
 
-![Logo](logo.png)
+<p align="center">
+  <img src="logo.png" width="250">
+</p>
 
 # Installation commands in Termux / Kali / Parrot
 
